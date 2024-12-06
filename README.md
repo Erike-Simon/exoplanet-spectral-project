@@ -1,2 +1,5 @@
-# exoplanet-spectral-project
-Final project of the postgraduate degree in Engineering and Data Analysis at CESAR School.
+# **Exoplanet Spectral Project**
+
+### **Resume**:
+
+When an exoplanet transits in front of its host star relative to Earth, the starlight passes through the planet’s atmosphere, potentially interacting with its chemical composition. After crossing the atmosphere, some wavelengths are absorbed while others are not, resulting in a characteristic pattern known as the atmospheric transmission spectrum, which can be observed by ground-based or space telescopes. This spectrum enables the inference of the chemical compounds present in the exoplanet’s atmosphere. The goal of this research is to explore and demonstrate the accuracy, efficiency, and uncertainties of different Artificial Neural Network models in predicting these transmission spectra using simulated data for two instruments of the upcoming ARIEL (Atmospheric Remote-sensing Infrared Exoplanet Large-survey) space telescope, developed by the European Space Agency (ESA). This study employs Convolutional Neural Networks (CNNs), Long Short-Term Memory networks (LSTMs), and the hybrid CNN-LSTM model to predict atmospheric transmission spectra of exoplanets. Specifically, the hybrid CNN-LSTM architecture is used to capture the spatial and temporal dependencies present in these spectra during the planetary transit period.
